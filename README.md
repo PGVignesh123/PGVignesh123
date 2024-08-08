@@ -24,3 +24,5 @@ Medication Reminder App(Personal Project): Designed a user-centric interface wit
 <h3 align="left">Activity:</h3>
 
 [![Vignesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PGVignesh123&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/PGVignesh123/github-readme-activity-graph)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/PGVignesh123)
