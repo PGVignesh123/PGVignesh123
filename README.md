@@ -6,12 +6,6 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/vignesh200399?ext=heatmap)
 
-📱 Projects:
-Web Dashboard for Telesto Energy: Developed a module for an interactive web dashboard for Telesto.
-Fall-Detection System: Created a system using machine learning for elderly safety in collaboration with Multicoreware.
-Medication Reminder App(Personal Project): Designed a user-centric interface with React Native.
-
-📸 Photography: Passionate about capturing everyday moments and turning them into lasting memories.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
