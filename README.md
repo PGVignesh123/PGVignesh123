@@ -4,8 +4,6 @@
 
 🔧 Key Skills: Python, Java, JavaScript, React Native, Plotly, SQL, Machine Learning, Deep Learning
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/vignesh200399?ext=heatmap)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
