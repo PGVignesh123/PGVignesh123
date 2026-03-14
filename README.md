@@ -2,7 +2,7 @@
 
 👋 Hi! I'm Puthucode Ganesh Vignesh, a final-year Computer Science student at Amrita Vishwa Vidyapeetham, part of the Amrita Live-in-Labs program. I specialize in ML/DL and front-end user dashboards, turning complex challenges into elegant solutions.
 
-🔧 Key Skills: Python, Java, JavaScript, React Native, Plotly, SQL, Machine Learning, Deep Learning
+🔧 Key Skills: Python, Java, JavaScript, React Native,ASP .NET CORE, Plotly, SQL, Machine Learning, Deep Learning
 
 
 <h3 align="left">Connect with me:</h3>
